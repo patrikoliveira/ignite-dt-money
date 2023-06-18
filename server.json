@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-18T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-06-19T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Cerveja",
+      "type": "outcome",
+      "category": "Diversão",
+      "price": 80,
+      "createdAt": "2023-06-19T19:36:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Consultoria Montagem de Ambiente",
+      "type": "income",
+      "category": "Consultoria",
+      "price": 600,
+      "createdAt": "2023-06-18T19:36:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-18T21:52:09.175Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de Morango",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-18T22:10:12.450Z",
+      "id": 6
+    }
+  ]
+}
